@@ -12,7 +12,7 @@ No warranty expressed or implied; use at your own risk; YMMV.
 
 ## Additional Resources
 
-There are a vast number of resources on the Web that provide excellent challenges and exercises. See [Greg's Desk](https://www.scheidel.net) / [Challenges & Exercises]((https://www.scheidel.net/challenges_and_exercises.md) / [Additional Resources](https://www.scheidel.net/challenges_and_exercises.md#Additional_Resources)<sup>[&#91;5&#93;](https://www.scheidel.net/challenges_and_exercises.md#Additional_Resources)</sup> for a starter list.
+There are a vast number of resources on the Web that provide excellent challenges and exercises. See [Greg's Desk](https://www.scheidel.net) / [Challenges & Exercises]((https://www.scheidel.net/challenges_and_exercises.md) / [Additional Resources](https://www.scheidel.net/challenges_and_exercises.md#Additional_Resources)<sup>[&#91;2&#93;](https://www.scheidel.net/challenges_and_exercises.md#Additional_Resources)</sup> for a starter list.
 
 Please also check out [Greg's CDNW v1 Walkthrough](https://cdnwv1.scheidel.net) at [https://cdnwv1.scheidel.net](). I intend to use that web site to post hints, tips, and walk-through instructions for every question in version 1 of the [Cyber Defense NetWars](https://www.sans.org/netwars/cyber-defense)<sup>[&#91;4&#93;](https://www.sans.org/netwars/cyber-defense)</sup> (CDNW) game... After [Eric Conrad](https://www.sans.org/instructors/eric-conrad) officially retires CDNW v1 and grants me permission to publish my notes.
 
