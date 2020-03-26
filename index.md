@@ -23,6 +23,8 @@ Also please check out [Greg's CDNW v1 Walkthrough](https://cdnwv1.scheidel.net) 
     [https://en.wikipedia.org/wiki/There's_more_than_one_way_to_do_it]()
 
  2. [Greg's Desk / Challenges and Exercises / Additional Resources](https://www.scheidel.net/challenges_and_exercises.md#Additional_Resources) by Greg Scheidel
+ 
+    [https://www.scheidel.net/challenges_and_exercises.md#Additional_Resources]()
 
  3. [Greg's CDNW v1 Walkthrough](https://https://cdnwv1.scheidel.net) by Greg Scheidel
  
@@ -40,7 +42,5 @@ Also please check out [Greg's CDNW v1 Walkthrough](https://cdnwv1.scheidel.net) 
  
     [https://www.sans.org/instructors/eric-conrad]()
 
-    [https://www.scheidel.net/challenges_and_exercises.md#Additional_Resources]()
-
-<hr class="tight"><p class="timestamp">Page updated >= 2020.03.26 19:50 ET -- Site updated: <span id="timestamp"></span></p>
+<hr class="tight"><p class="timestamp">Page updated >= 2020.03.26 19:53 ET -- Site updated: <span id="timestamp"></span></p>
 <script type='text/javascript'>document.getElementById("timestamp").innerHTML = Date(document.lastModified);</script>
