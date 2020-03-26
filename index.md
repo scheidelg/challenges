@@ -10,15 +10,11 @@ The contents of this web site are challenges and exercises that I've created eit
 
 No warranty expressed or implied; use at your own risk; YMMV.
 
-## Cyber Defense NetWars v1
-
-[http://cdnwv1.scheidel.net]()
-
-I intend to use [http://cdnwv1.scheidel.net]() to post hints, tips, and walk-through instructions for every question in version 1 of the [Cyber Defense NetWars](https://www.sans.org/netwars/cyber-defense)<sup>[&#91;2&#93;](https://www.sans.org/netwars/cyber-defense)</sup> (CDNW) game... After [Eric Conrad](https://www.sans.org/instructors/eric-conrad) officially retires CDNW v1 and grants me permission to publish my notes.
-
 ## Additional Resources
 
 There are a vast number of resources on the Web that provide excellent challenges and exercises. See [Greg's Desk](https://www.scheidel.net) / [Challenges & Exercises]((https://www.scheidel.net/challenges_and_exercises.md) / [Additional Resources](https://www.scheidel.net/challenges_and_exercises.md#Additional_Resources)<sup>[&#91;5&#93;](https://www.scheidel.net/challenges_and_exercises.md#Additional_Resources)</sup> for a starter list.
+
+Also please check out [Greg's CDNW v1 Walkthrough](https://cdnwv1.scheidel.net) at [https://cdnwv1.scheidel.net](). I intend to use that web site to post hints, tips, and walk-through instructions for every question in version 1 of the [Cyber Defense NetWars](https://www.sans.org/netwars/cyber-defense)<sup>[&#91;4&#93;](https://www.sans.org/netwars/cyber-defense)</sup> (CDNW) game... After [Eric Conrad](https://www.sans.org/instructors/eric-conrad) officially retires CDNW v1 and grants me permission to publish my notes.
 
 ## References
 
@@ -26,21 +22,25 @@ There are a vast number of resources on the Web that provide excellent challenge
  
     [https://en.wikipedia.org/wiki/There's_more_than_one_way_to_do_it]()
 
- 2. [Cyber Defense NetWars](https://www.sans.org/netwars/cyber-defense) on sans.org
+ 2. [Greg's Desk / Challenges and Exercises / Additional Resources](https://www.scheidel.net/challenges_and_exercises.md#Additional_Resources) by Greg Scheidel
+
+ 3. [Greg's CDNW v1 Walkthrough](https://https://cdnwv1.scheidel.net) by Greg Scheidel
+ 
+    [https://https://cdnwv1.scheidel.net]()
+
+ 4. [Cyber Defense NetWars](https://www.sans.org/netwars/cyber-defense) on sans.org
  
     [https://www.sans.org/netwars/cyber-defense]()
    
- 3. [NetWars](https://www.sans.org/netwars/) on sans.org
+ 5. [NetWars](https://www.sans.org/netwars/) on sans.org
  
     [https://www.sans.org/netwars/]()
 
- 4. [Eric Conrad](https://www.sans.org/instructors/eric-conrad) profile on sans.org
+ 6. [Eric Conrad](https://www.sans.org/instructors/eric-conrad) profile on sans.org
  
     [https://www.sans.org/instructors/eric-conrad]()
 
- 5. [Greg's Desk / Challenges and Exercises / Additional Resources](https://www.scheidel.net/challenges_and_exercises.md#Additional_Resources) by Greg Scheidel
-
     [https://www.scheidel.net/challenges_and_exercises.md#Additional_Resources]()
 
-<hr class="tight"><p class="timestamp">Page updated >= 2020.03.26 19:43 ET -- Site updated: <span id="timestamp"></span></p>
+<hr class="tight"><p class="timestamp">Page updated >= 2020.03.26 19:50 ET -- Site updated: <span id="timestamp"></span></p>
 <script type='text/javascript'>document.getElementById("timestamp").innerHTML = Date(document.lastModified);</script>
