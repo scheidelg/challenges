@@ -38,9 +38,9 @@ There are a vast number of resources on the Web that provide excellent challenge
  
     [https://www.sans.org/instructors/eric-conrad]()
 
- 5. [Greg's Desk / Challenges and Exercises / Additional Resources] by Greg Scheidel
+ 5. [Greg's Desk / Challenges and Exercises / Additional Resources](https://www.scheidel.net/challenges_and_exercises.md#Additional_Resources) by Greg Scheidel
 
     [https://www.scheidel.net/challenges_and_exercises.md#Additional_Resources]()
 
-<hr class="tight"><p class="timestamp">Page updated >= 2020.03.26 19:11 ET -- Site updated: <span id="timestamp"></span></p>
+<hr class="tight"><p class="timestamp">Page updated >= 2020.03.26 19:43 ET -- Site updated: <span id="timestamp"></span></p>
 <script type='text/javascript'>document.getElementById("timestamp").innerHTML = Date(document.lastModified);</script>
